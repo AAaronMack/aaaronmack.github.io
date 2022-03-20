@@ -1,0 +1,4 @@
+- Homepage
+  - [Home](/)
+- Examplepage
+  - [Example](/pages/Example.md)
